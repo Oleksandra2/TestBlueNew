@@ -2,7 +2,7 @@
 title: Test Blue five
 description: Daria tutorial blue five
 tags: [tutorial:product/sapHana, tutorial:experience/beginner]
-primary_tag: tutorial:product/sapHana
+primary_tag: tutorial:software-product-function/sap-hana-graph
 author_name: AEM
 author_profile: https://github.com/adadouche
 ---
