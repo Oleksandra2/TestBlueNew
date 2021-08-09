@@ -2,7 +2,7 @@
 title: Test Blue Eight
 description: example
 tags: [products>sap-hana, topic>api, tutorial>beginner]
-primary_tag: tutorial:user-interface
+primary_tag: tutorial:topic/user-interface
 ---
 ### Time to Complete
 20 min
