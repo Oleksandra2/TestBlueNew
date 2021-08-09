@@ -1,5 +1,5 @@
 ---
-title: FOLDER
+title: Test Blue five
 description: Daria tutorial blue five
 tags: [tutorial:product/sapHana, tutorial:experience/beginner]
 primary_tag: tutorial:product/sapHana
