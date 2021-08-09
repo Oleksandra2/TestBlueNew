@@ -1,5 +1,5 @@
 ---
-title: Daria tutorial blue two 1
+title: Test Blue two 1
 description: 2 new types of rules 2007_1
 primary_tag: products>sap-hana
 tags: [tutorial:product>sap-business-technology-platform, tutorial>beginner]
