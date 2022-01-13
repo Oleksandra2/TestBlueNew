@@ -1,5 +1,5 @@
 ---
-title: Test Blue Eight
+title: Test Blue Eight test
 description: example
 tags: [products>sap-hana, topic>api, tutorial>beginner]
 primary_tag: tutorial:topic/user-interface
