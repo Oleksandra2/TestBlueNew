@@ -1,7 +1,7 @@
 ---
 title: Test Test 2
 description: Create a database table in SAP Cloud Platform ABAP Environment and prefill it with data.
-tags: [tutorial>beginner, topic>abap-development, topic>Android]
+tags: [tutorial>beginner, topic>abap-development, topic>Technology-Development]
 primary_tag: products>sap-hana
 time: 10
 ---
