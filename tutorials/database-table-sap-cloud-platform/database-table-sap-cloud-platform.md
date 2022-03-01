@@ -3,7 +3,7 @@ title: Test Blue Create a database table in SAP Cloud Platform
 description: Create a database table in SAP Cloud Platform ABAP Environment and prefill it with data. 
 primary_tag: products>sap-hana-cloud
 tags: [tutorial>beginner, topic>api, software-product>Analytics, topic>Business-Development]
-time: 10
+time: 130
 ---
 
 ## Prerequisites  
