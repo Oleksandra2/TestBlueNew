@@ -1,5 +1,5 @@
 ---
-title: Test Blue New Call a remote function module
+title: Test Blue New Call a remote function module 2
 description: Call a remote function module located in an on-premise system
 auto_validation: true
 time: 45
