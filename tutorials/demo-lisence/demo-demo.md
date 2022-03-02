@@ -23,7 +23,7 @@ primary_tag: topic>Mobile
   - How to create a communication arrangement to integrate SAP Cloud Connector
   - How to test the connection using an ABAP handler class
   - How to create a communication arrangement to integrate SAP Cloud Connector
-  - How to test the connection using an ABAP handler class
+  - How to test the connection using an ABAP handler class Test
 
 Throughout this tutorial, replace `XXX` with your initials or group number.
 
