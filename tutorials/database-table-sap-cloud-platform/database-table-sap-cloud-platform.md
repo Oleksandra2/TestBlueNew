@@ -6,9 +6,6 @@ tags: [tutorial>beginner, topic>api, software-product>Analytics, topic>Business-
 time: 130
 ---
 
-## Prerequisites  
-- You must have an SAP Cloud Platform ABAP Environment user.
-
 ## Details
 ### You will learn
 - How to create a database table
