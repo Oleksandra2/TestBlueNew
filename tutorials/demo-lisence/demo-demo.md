@@ -2,7 +2,7 @@
 title: Test Blue New Call a remote function module (9 contributors)
 description: Call a remote function module located in an on-premise system
 auto_validation: true
-time: 45
+time: 30
 tags: [tutorial>how-to, tutorial>advanced, tutorial>license, programming tool>API]
 primary_tag: topic>Mobile
 ---
